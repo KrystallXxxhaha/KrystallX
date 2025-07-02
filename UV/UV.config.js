@@ -1,6 +1,6 @@
 self.__uv$config = {
 	prefix: "/active/go/",
-	bare: "https:vplaza.org/bare
+	bare: "https://vplaza.org/bare
 	encodeUrl: Ultraviolet.codec.xor.encode,
 	decodeUrl: Ultraviolet.codec.xor.decode,
 	handler: "/static/uv/uv.handler.js",
